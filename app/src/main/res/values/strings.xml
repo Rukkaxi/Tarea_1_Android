@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Mi Aplicación – Tarea 1</string>
+    <string name="bienvenida_app">Bienvenido a la aplicación</string>
+    <string name="explora_app">Explorando recursos en Android</string>
+    <string name="nombre_app">Mi nombre es %s</string>
+</resources>
